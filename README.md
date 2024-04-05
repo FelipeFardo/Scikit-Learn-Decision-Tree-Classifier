@@ -9,7 +9,7 @@
 
 ### Results
 #### Before
-![Before](https://github.com/FelipeFardo/Assets/blob/main/Scikit-Learn-Decision-Tree-Classifier/Screenshot_4.png)
+![Before](https://github.com/FelipeFardo/Assets/blob/main/Scikit-Lea'rn-Decision-Tree-Classifier/Screenshot_4.png)
 #### After
 ![After](https://github.com/FelipeFardo/Assets/blob/main/Scikit-Learn-Decision-Tree-Classifier/Screenshot_3.png)
 
@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 ## 🖲️ Getting Started
  ```sh
-  - git clone https://github.com/seu_usuario/seu_projeto.git
+  - git clone https://github.com/FelipeFardo/Scikit-Learn-Decision-Tree-Classifier.git
   ```
  - Install the dependencies using pipenv:
  ```sh
